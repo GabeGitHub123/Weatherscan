@@ -5,7 +5,7 @@ var map_key = '';
 
 //Apperance settings. Fields left blank will use defaults. Will only refresh upon reload.
 var apperanceSettings = {
-  iconSet:"2010", //2007 or 2010
+  iconSet:"2007", //2007 or 2010
   serialNumber:"",// Ex. "TWCS02983932"
   headinID:"", // Ex. "0298393223"
   affilateName:"Midco",// Ex. "Comcast"
